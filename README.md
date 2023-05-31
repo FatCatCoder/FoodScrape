@@ -1,11 +1,3 @@
-﻿using System;
-namespace Application
-{
-	public class README
-	{
-		public README()
-		{
-		}
-	}
-}
+# FoodScrape
+| C# based web scraper for groceries, using playwright library in an api
 
